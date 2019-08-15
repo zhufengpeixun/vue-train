@@ -1,0 +1,9 @@
+{
+  "name": "vue-router-vuex",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.10.0",
+    "@vue/cli-service": "^3.10.0"
+  }
+}
